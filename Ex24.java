@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex23 {
+public class Ex24 {
 
 	public static void main(String[] args) {
 
@@ -19,8 +19,8 @@ public class Ex23 {
 			n2++;
 		}
 		media = (soma / n2);
-		System.out.println("O valor total gasto com a coleção é de: R$ " + soma);
-		System.out.println("O valor médio gasto com a coleção é de: R$ " + media);
+		System.out.println("O valor total gasto com a coleÃ§Ã£o Ã© de: R$ " + soma);
+		System.out.println("O valor mÃ©dio gasto com a coleÃ§Ã£o Ã© de: R$ " + media);
 		entrada.close();
 	}
 }
