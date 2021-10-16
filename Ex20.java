@@ -8,7 +8,7 @@ public class Ex20 {
 		float media = 0;
 		float termo = 0;
 		float n2 = 0;
-		System.out.print("Informe a quantidade de némeros do conjunto: ");
+		System.out.print("Informe a quantidade de nÃ©meros do conjunto: ");
 		float n1 = entrada.nextInt();
 		for (int i = 0; i < n1; i++) {
 
@@ -17,8 +17,8 @@ public class Ex20 {
 			soma = soma + termo;
 			n2++;
 		}
-media = (soma / n2);
-		System.out.println("A média artmética é: " + media);
+                media = (soma / n2);
+		System.out.println("A mÃ©dia artmÃ©tica Ã©: " + media);
 		entrada.close();
 	}
 }
